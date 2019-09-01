@@ -1,5 +1,5 @@
 # Assignment1
- CS648.01 Assignment_1 _The Krusty Krab webpage_  
+ CS648.01 Assignment_1     
 ### **Welcome to _The Krusty Krab !_**  
 _Serving since 1999_  
  ![Krusty Krabs logo](https://i.pinimg.com/originals/af/2a/cb/af2acbb1e2e40b25cd1f494bf6b9cd99.jpg)  
